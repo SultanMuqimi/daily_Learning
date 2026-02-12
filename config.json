@@ -1,0 +1,16 @@
+{
+  "activity_file": "activity.txt",
+  "commit_message_templates": [
+    "Daily learning activity",
+    "Updated daily progress",
+    "Daily commit",
+    "Learning progress update",
+    "Daily development activity",
+    "Keep the streak alive!",
+    "Another day of learning",
+    "Continuous improvement"
+  ],
+  "random_time_offset": true,
+  "max_entries_per_day": 3,
+  "auto_push": true
+}
