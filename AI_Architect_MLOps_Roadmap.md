@@ -47,3 +47,4 @@ Project: Deploy a RAG system using Docker and a Kubernetes cluster, including a 
 Since you are already a Senior Developer, your superpower is System Design. While you study the math of Backpropagation, always ask:
 
 "How does this mathematical operation impact my GPU memory (VRAM) and latency?"
+next line 
