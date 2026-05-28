@@ -2,7 +2,7 @@
 
 Automatically maintain your GitHub contribution streak with daily commits!
 
-## 🌟 Features
+## 🌟 Features, and what? tell me 
 
 - **Automated Daily Commits**: Automatically adds activity entries and commits to GitHub
 - **Configurable Schedule**: Set up to run at your preferred time(s) each day
