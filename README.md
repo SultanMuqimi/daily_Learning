@@ -13,7 +13,7 @@ Automatically maintain your GitHub contribution streak with daily commits!
 - **Windows Task Scheduler Integration**: Easy setup with PowerShell script
 - good
 
-## 🚀 Quick Start
+## 🚀 Quick Start hahahha
 
 ### Prerequisites
 
