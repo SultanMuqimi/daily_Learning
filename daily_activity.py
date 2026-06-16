@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Daily Activity Tracker
-Automatically updates activity.txt with current timestamp and commits to GitHub
+Automatically updates activity.txt with current timestamp and commits to GitHub sooooooooooooooooooooooooooooooooo
 """
 
 import os
